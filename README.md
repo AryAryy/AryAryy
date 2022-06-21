@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AryAryy
-- 👀 I make games!
+- 👋 Hi, I’m Ary, I make games!
 - 📫 my email: mahdi47444@gmail.com
 - My Discord: Ary_Ary#2102
 
