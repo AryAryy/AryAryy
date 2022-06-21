@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AryAryy
-- 👀 I make games
+- 👀 I make games!
 - 📫 my email: mahdi47444@gmail.com
 <!---
 AryAryy/AryAryy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
